@@ -1,0 +1,20 @@
+setup:
+  configuration: 2d
+  dataset_id: your_dataset_id
+  fold: 50
+  file_name: your_run_name
+  initial_lr: 1e-4
+  batch_size: 4
+  num_epochs: 100
+  amp: False
+  split_txt_path: your_data_split_txt_path
+
+
+SAM:
+  model_type: HiRAM  # vit_b, HiRAM
+  model_name: LoRA    # SAM, LoRA
+  Update: # True(=Trainable), False(=Freeze)
+    image_encoder: False
+    prompt_encoder: False
+    mask_decoder: True
+  pretrain_path: your_checkpoint_path
