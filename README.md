@@ -2,7 +2,7 @@
 This repository contains the implementation of the following paper:
 
 > **HiRAM: Hierarchical Region-Aware Multi-Granularity Mamba for White Matter Lesion Segmentation**<br>
-> Dahye Lee and Kwanseok Oh<br>
+> Dahye Lee and [Kwanseok Oh](https://scholar.google.co.kr/citations?user=EMYHaHUAAAAJ&hl=ko)<br>
 > Accepted at MICCAI 2026
 
 ## Overview
