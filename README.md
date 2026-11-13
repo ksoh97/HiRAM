@@ -1,4 +1,4 @@
-# HiRAM
+# HiRAM 
 This repository contains the implementation of the following paper:
 
 > **HiRAM: Hierarchical Region-Aware Multi-Granularity Mamba for White Matter Lesion Segmentation**<br>
